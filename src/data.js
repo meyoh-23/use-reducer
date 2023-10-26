@@ -22,6 +22,16 @@ export const links = [
     text: 'contact',
   },
   {
+    id: 7,
+    url: '/contact',
+    text: 'contact',
+  },
+  {
+    id: 6,
+    url: '/contact',
+    text: 'contact',
+  },
+  {
     id: 5,
     url: '/profile',
     text: 'profile',
